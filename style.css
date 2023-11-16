@@ -1,6 +1,20 @@
 #video
 {
-   width: 100%;
+   width: 200%;
    height: 500%;
    border: none;
 }
+
+.travel1
+{
+   border: 1px solid lightgray;
+}
+.travel2
+{
+   width: 100px;
+}
+.travel3
+{
+   margin: 3px;
+}
+
